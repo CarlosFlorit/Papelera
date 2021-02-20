@@ -1,0 +1,5 @@
+#!/bin/bash
+chmod +x borra
+cd
+ln -s ~/papelera/borra /usr/local/bin
+echo Listo. Ahora puede ejecutar borra desde cualquier carpeta 
